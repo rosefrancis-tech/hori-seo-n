@@ -42,7 +42,8 @@ Mock-up image: ![Mock-up image](/assets/images/mock-up.png "Mock-up image")
 
 ## Code Review
 The completed project is uploaded in Github for approval.  
-Please review it here. Repository:[https://rosefrancis-tech.github.io/hori-seo-n/](https://rosefrancis-tech.github.io/hori-seo-n/)
+Please review it in the repository link below:  
+[https://rosefrancis-tech.github.io/hori-seo-n/](https://rosefrancis-tech.github.io/hori-seo-n/)
 
 ## Acknowledgements
 1. [Ticket Source](https://courses.bootcampspot.com/courses/484/assignments/7224?module_item_id=111994 "courses.bootcamp.com")
