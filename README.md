@@ -42,7 +42,7 @@ Mock-up image: ![Mock-up image](/assets/images/mock-up.png "Mock-up image")
 
 ## Code Review
 The completed project is uploaded in Github for approval.  
-Please review it here. [Repository](https://rosefrancis-tech.github.io/hori-seo-n/ "https://rosefrancis-tech.github.io/hori-seo-n/")
+Please review it here. Repository:[https://rosefrancis-tech.github.io/hori-seo-n/](https://rosefrancis-tech.github.io/hori-seo-n/)
 
 ## Acknowledgements
 1. [Ticket Source](https://courses.bootcampspot.com/courses/484/assignments/7224?module_item_id=111994 "courses.bootcamp.com")
@@ -50,5 +50,5 @@ Please review it here. [Repository](https://rosefrancis-tech.github.io/hori-seo-
 3. [Mark Down Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "Github")
 4. [Advanced Markdown](https://github.com/DavidWells/advanced-markdown/blob/master/README.md "Github")
 5. [steemit.com](https://steemit.com/markdown/@jamesanto/how-to-add-multiple-spaces-between-texts-in-markdown)
-6. [Alt attributes for icons](https://dev.to/nadiarasul/do-icons-need-alt-attributes-5g52#:~:text=If%20an%20icon%20is%20added,%3Cimg%20src%3D%22icon.)
-7. [Google Image Best Practices](https://developers.google.com/search/docs/advanced/guidelines/google-images?hl=en&visit_id=637427119836065408-1354604991&rd=1)
+6. [Alt attributes for icons](https://dev.to/nadiarasul/do-icons-need-alt-attributes-5g52#:~:text=If%20an%20icon%20is%20added,%3Cimg%20src%3D%22icon. "dev.to")
+7. [Google Image Best Practices](https://developers.google.com/search/docs/advanced/guidelines/google-images?hl=en&visit_id=637427119836065408-1354604991&rd=1 "google.com")
