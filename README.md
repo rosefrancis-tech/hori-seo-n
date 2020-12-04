@@ -1,6 +1,6 @@
 # &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Hori*seo*n  
 
-[Summary](#Summary) &nbsp; &nbsp; [Introduction](#Introduction) &nbsp; &nbsp; [User Story](#User-Story) &nbsp; &nbsp; [Acceptance Criteria](#Acceptance-Criteria) &nbsp; &nbsp; [Mock-Up](#Mock-up) &nbsp; &nbsp; [Review](#Review) &nbsp; &nbsp; [Acknowledgements](#Acknowledgements)  
+[Summary](#Summary) &nbsp; &nbsp; [Introduction](#Introduction) &nbsp; &nbsp; [User Story](#User-Story) &nbsp; &nbsp; [Acceptance Criteria](#Acceptance-Criteria) &nbsp; &nbsp; [Mock-Up](#Mock-up) &nbsp; &nbsp; [Code Review](#Review) &nbsp; &nbsp; [Acknowledgements](#Acknowledgements)  
 
 ## Summary 
 This project is an on-the-job ticket for a feature request of an existing website of 'Horiseon'.
@@ -40,9 +40,9 @@ The following image shows the web application's appearance and functionality.
 
 Mock-up image: ![Mock-up image](/assets/images/mock-up.png "Mock-up image")
 
-## Review
+## Code Review
 The completed project is uploaded in Github for approval.  
-Please review it here. [Repository:](https://rosefrancis-tech.github.io/hori-seo-n/ "https://rosefrancis-tech.github.io/hori-seo-n/")
+Please review it here. [Repository](https://rosefrancis-tech.github.io/hori-seo-n/ "https://rosefrancis-tech.github.io/hori-seo-n/")
 
 ## Acknowledgements
 1. [Ticket Source](https://courses.bootcampspot.com/courses/484/assignments/7224?module_item_id=111994 "courses.bootcamp.com")
