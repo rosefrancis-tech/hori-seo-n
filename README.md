@@ -67,7 +67,7 @@ Please review it in the repository link below:
 > [https://github.com/rosefrancis-tech/hori-seo-n](https://github.com/rosefrancis-tech/hori-seo-n)
 
 ## Live Project
-Deployed Application url: [https://rosefrancis-tech.github.io/hori-seo-n/](https://www.markdownguide.org)
+Deployed Application url: [https://rosefrancis-tech.github.io/hori-seo-n/](https://rosefrancis-tech.github.io/hori-seo-n/)
 
 ## Acknowledgement
 1. [Ticket Source](https://courses.bootcampspot.com/courses/484/assignments/7224?module_item_id=111994 "courses.bootcamp.com")
