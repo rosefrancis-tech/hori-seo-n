@@ -2,7 +2,7 @@
 
 [Summary](#Summary) &nbsp; &nbsp; [Introduction](#Introduction) &nbsp; &nbsp; [User Story](#User-Story) &nbsp; &nbsp; [Acceptance Criteria](#Acceptance-Criteria) &nbsp; &nbsp; [Mock-Up](#Mock-up) &nbsp; &nbsp; [Code Review](#Review) &nbsp; &nbsp; [Acknowledgements](#Acknowledgements)  
 
- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [***Deployed Application***](#Deployed-Application)
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [***Live Project***](#Live-Project)
 
 ## Summary 
 This project is an on-the-job ticket for a feature request of an existing website of 'Horiseon'.
@@ -43,11 +43,28 @@ The following image shows the web application's appearance and functionality.
 Mock-up image: ![Mock-up image](/assets/images/mock-up.png "Mock-up image")
 
 ## Code Review
+These are the major refactorings made in the code  
+HTML  
+- Changed title into consice and descriptive
+- Introduced five major elements in the body: Header, Section(for Hero), Main, Aside, Footer
+- Changed divs inside the Main and Aside into article and sectio elements respectively
+- Fixed header links
+- Removed classes for div elements after they are made semantic
+- Added anchor element for h1 in the header
+- Added alt description for all images including icons in less than 125 words each
+- Gave proper indentations
+- Added comments
+CSS
+- Grouped and rearenged the selectors and properties
+- Made corresponding semantic element changes
+- Removed duplication of styles  
+- Added comments
+    
 The completed project is uploaded in Github for approval.  
 Please review it in the repository link below:  
-[https://github.com/rosefrancis-tech/hori-seo-n](https://github.com/rosefrancis-tech/hori-seo-n)
+> [https://github.com/rosefrancis-tech/hori-seo-n](https://github.com/rosefrancis-tech/hori-seo-n)
 
-## Deployed Application 
+## Live Project
 Deployed Application url: [https://rosefrancis-tech.github.io/hori-seo-n/](https://www.markdownguide.org "markdownorg.com")
 
 ## Acknowledgements
