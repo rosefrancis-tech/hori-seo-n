@@ -48,7 +48,7 @@ These are the major refactorings made in the code
 HTML  
 - Changed title into consice and descriptive
 - Introduced five major elements in the body: Header, Section(for Hero), Main, Aside, Footer
-- Changed divs inside the Main and Aside into article and sectio elements respectively
+- Changed divs inside the Main and Aside into article and section elements respectively
 - Fixed header links
 - Removed classes for div elements after they are made semantic
 - Added anchor element for h1 in the header
@@ -57,9 +57,9 @@ HTML
 - Added comments
       
 CSS
-- Grouped and rearenged the selectors and properties
+- Grouped and rearranged the selectors and properties
 - Made corresponding semantic element changes
-- Removed duplication of styles  
+- Removed duplicate code  
 - Added comments
     
 The completed project is uploaded in Github for approval.  
@@ -67,7 +67,7 @@ Please review it in the repository link below:
 > [https://github.com/rosefrancis-tech/hori-seo-n](https://github.com/rosefrancis-tech/hori-seo-n)
 
 ## Live Project
-Deployed Application url: [https://rosefrancis-tech.github.io/hori-seo-n/](https://www.markdownguide.org "markdownorg.com")
+Deployed Application url: [https://rosefrancis-tech.github.io/hori-seo-n/](https://www.markdownguide.org)
 
 ## Acknowledgement
 1. [Ticket Source](https://courses.bootcampspot.com/courses/484/assignments/7224?module_item_id=111994 "courses.bootcamp.com")

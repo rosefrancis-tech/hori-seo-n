@@ -4,11 +4,11 @@
     margin: 0;
 }
 
-        /* general style starts */
 body {
     background-color: #d9dcd6;
 }
-        
+
+/* general style starts */
 a {
     color: #ffffff;
     text-decoration: none;
@@ -28,7 +28,7 @@ p {
     margin-left: 25px;
 }
         /* general style ends */     
-        
+
         /* header style starts */
 
 header {
@@ -63,7 +63,6 @@ header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
-
         /* header style ends */
 
         /* hero style starts */
@@ -101,7 +100,6 @@ main article h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
         /* main style ends */
 
         /* aside style starts */
@@ -115,17 +113,17 @@ aside {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-        
+
 aside section {
     margin-bottom: 32px;
     color: #ffffff;
 }
-        
+
 aside section h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-              
+
 aside section img {
     display: block;
     margin: 10px auto;
