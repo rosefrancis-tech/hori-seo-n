@@ -2,6 +2,8 @@
 
 [Summary](#Summary) &nbsp; &nbsp; [Introduction](#Introduction) &nbsp; &nbsp; [User Story](#User-Story) &nbsp; &nbsp; [Acceptance Criteria](#Acceptance-Criteria) &nbsp; &nbsp; [Mock-Up](#Mock-up) &nbsp; &nbsp; [Code Review](#Review) &nbsp; &nbsp; [Acknowledgements](#Acknowledgements)  
 
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [***Deployed Application***](#Deployed-Application)
+
 ## Summary 
 This project is an on-the-job ticket for a feature request of an existing website of 'Horiseon'.
 
@@ -43,7 +45,10 @@ Mock-up image: ![Mock-up image](/assets/images/mock-up.png "Mock-up image")
 ## Code Review
 The completed project is uploaded in Github for approval.  
 Please review it in the repository link below:  
-[https://rosefrancis-tech.github.io/hori-seo-n/](https://rosefrancis-tech.github.io/hori-seo-n/)
+[https://github.com/rosefrancis-tech/hori-seo-n](https://github.com/rosefrancis-tech/hori-seo-n)
+
+## Deployed Application 
+Deployed Application url: [https://rosefrancis-tech.github.io/hori-seo-n/](https://www.markdownguide.org "markdownorg.com")
 
 ## Acknowledgements
 1. [Ticket Source](https://courses.bootcampspot.com/courses/484/assignments/7224?module_item_id=111994 "courses.bootcamp.com")
