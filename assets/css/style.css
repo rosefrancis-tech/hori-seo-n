@@ -78,22 +78,13 @@ header nav ul li {
         /* hero style ends */
 
         /* main style starts */
-.content {
+main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-.content article {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-/*
-.online-reputation-management {
+main article {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -102,45 +93,19 @@ header nav ul li {
     color: #ffffff;
 }
 
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-*/
-.content img {
-    max-height: 200px;
-}
-/*
-.online-reputation-management img {
+main img {
     max-height: 200px;
 }
 
-.social-media-marketing img {
-    max-height: 200px;
-}
-*/
-.content h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-/*
-.online-reputation-management h2 {
+main h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}*/
         /* main style ends */
 
         /* aside style starts */
-.benefits {
+aside {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -151,49 +116,17 @@ header nav ul li {
     background-color: #2589bd;
 }
         
-.benefit-lead {
+aside section {
     margin-bottom: 32px;
     color: #ffffff;
 }
         
-.benefit-brand {
-     margin-bottom: 32px;
-    color: #ffffff;
-}
-        
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-        
-.benefit-lead h3 {
+aside section h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-        
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-        
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-        
-.benefit-lead img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-        
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-        
-.benefit-cost img {
+              
+aside section img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
