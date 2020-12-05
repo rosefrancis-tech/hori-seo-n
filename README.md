@@ -43,7 +43,8 @@ The following image shows the web application's appearance and functionality.
 Mock-up image: ![Mock-up image](/assets/images/mock-up.png "Mock-up image")
 
 ## Code Review
-These are the major refactorings made in the code  
+These are the major refactorings made in the code
+      
 HTML  
 - Changed title into consice and descriptive
 - Introduced five major elements in the body: Header, Section(for Hero), Main, Aside, Footer
@@ -54,6 +55,7 @@ HTML
 - Added alt description for all images including icons in less than 125 words each
 - Gave proper indentations
 - Added comments
+      
 CSS
 - Grouped and rearenged the selectors and properties
 - Made corresponding semantic element changes
