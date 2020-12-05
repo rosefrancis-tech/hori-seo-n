@@ -1,6 +1,6 @@
 # &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Hori*seo*n  
 
-[Summary](#Summary) &nbsp; &nbsp; [Introduction](#Introduction) &nbsp; &nbsp; [User Story](#User-Story) &nbsp; &nbsp; [Acceptance Criteria](#Acceptance-Criteria) &nbsp; &nbsp; [Mock-Up](#Mock-up) &nbsp; &nbsp; [Code Review](#Review) &nbsp; &nbsp; [Acknowledgements](#Acknowledgements)  
+[Summary](#Summary) &nbsp; &nbsp; [Introduction](#Introduction) &nbsp; &nbsp; [User Story](#User-Story) &nbsp; &nbsp; [Acceptance Criteria](#Acceptance-Criteria) &nbsp; &nbsp; [Mock-Up](#Mock-up) &nbsp; &nbsp; [Code Review](#Code-Review) &nbsp; &nbsp; [Acknowledgement](#Acknowledgement)  
 
  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [***Live Project***](#Live-Project)
 
@@ -69,7 +69,7 @@ Please review it in the repository link below:
 ## Live Project
 Deployed Application url: [https://rosefrancis-tech.github.io/hori-seo-n/](https://www.markdownguide.org "markdownorg.com")
 
-## Acknowledgements
+## Acknowledgement
 1. [Ticket Source](https://courses.bootcampspot.com/courses/484/assignments/7224?module_item_id=111994 "courses.bootcamp.com")
 2. [Mark Down Guide](https://www.markdownguide.org "markdownorg.com")
 3. [Mark Down Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "Github")
