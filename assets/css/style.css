@@ -93,11 +93,11 @@ main article {
     color: #ffffff;
 }
 
-main img {
+main article img {
     max-height: 200px;
 }
 
-main h2 {
+main article h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
