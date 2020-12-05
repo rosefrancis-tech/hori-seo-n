@@ -46,7 +46,7 @@ Mock-up image: ![Mock-up image](/assets/images/mock-up.png "Mock-up image")
 These are the major refactorings made in the code
       
 HTML  
-- Changed title into consice and descriptive
+- Changed title into concise and descriptive
 - Introduced five major elements in the body: Header, Section(for Hero), Main, Aside, Footer
 - Changed divs inside the Main and Aside into article and section elements respectively
 - Fixed header links
